@@ -1,0 +1,2 @@
+# humanity
+Auto Humanity Testnet
